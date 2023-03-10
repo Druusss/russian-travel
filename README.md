@@ -22,5 +22,5 @@
 Всё сделано очень аккуратно, а если точнее - по БЭМу.
 
 **Ссылка на GitHub Pages**
-Оставлю её тут : https://druusss.github.io/russian-travel/
+Оставлю её тут : https://druusss.github.io/russian-travel/index.html
 Спасибо за внимание!
