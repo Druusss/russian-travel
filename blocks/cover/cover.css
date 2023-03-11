@@ -8,6 +8,7 @@
   background-size: cover;
   margin: 0 auto;
   padding: 0;
+  transition: opacity 0.4s ease-in;
 }
 
 .cover::before {
@@ -16,17 +17,13 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-size: 100%;
   background-color: #2a2c2f;
   content: "";
   opacity: 0.3;
 }
 
 .cover:hover::before {
-  content: "";
-  background-color: #2a2c2f;
   opacity: 0.8;
-  transition: opacity 0.4s ease-in;
 }
 
 @media screen and (max-width: 1024px) {
